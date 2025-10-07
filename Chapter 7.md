@@ -97,4 +97,15 @@ while command != sentinel:
 - #enumerate `enumerate()` retrieves both the index and the corresponding element value at the same time
 	- This creates more readable cleaner code 
 
- 
+ # Questions 
+ - What is a #loop?
+ - What is the difference between a #while_loop and a #for_loop?
+ - Why would you choose to use one or another?
+ - What does the #enumerate function do?
+ - How can you count with loops?
+ - How does range() interact with loops?
+ - What is Correspondence?
+ - What is incremental programming?
+ - What does a #break statement do?
+ - What does a #continue statement do?
+ - How does a loop else work?
