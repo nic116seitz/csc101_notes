@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73fff3c59200af9c",
@@ -230,19 +229,19 @@
   },
   "active": "bc48944a7519dec0",
   "lastOpenFiles": [
+    "CSC1019/Class 3.md",
+    "CSC1019/Chapter 4.md",
+    "CSC1019/Chapter 6  - Continued.md",
+    "CSC1019/Class 3 - Datatypes reading.md",
+    "CSC1019/Class 1 - Thinking, formatting and Arithmetic.md",
+    "CSC1019/Class 1 questions.md",
+    "CSC1019/Class 2.md",
+    "CSC1019/Chapter 6 - If - else branches.md",
+    "CSC1019/Chapter 6 Feed Back Karina.md",
+    "Chapter 7.md",
+    "CSC1019/Class_5_Variables_and_Expressions.md",
     "CSC1019/Midterm Study Guide.md",
     "CSC1019/Assignment Reflections/Branching_looping_Reflection.md",
-    "CSC1019/Assignment Reflections",
-    "CSC1019/Chapter 4.md",
-    "CSC1019/Class_5_Variables_and_Expressions.md",
-    "CSC1019/Class 3.md",
-    "CSC1019/Class 2.md",
-    "CSC1019/Class 3 - Datatypes reading.md",
-    "CSC1019/Class 1 questions.md",
-    "CSC1019/Class 1 - Thinking, formatting and Arithmetic.md",
-    "CSC1019/Chapter 6 Feed Back Karina.md",
-    "CSC1019/Chapter 6 - If - else branches.md",
-    "CSC1019/Chapter 6  - Continued.md",
-    "Chapter 7.md"
+    "CSC1019/Assignment Reflections"
   ]
 }
