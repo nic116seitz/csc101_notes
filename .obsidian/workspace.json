@@ -34,9 +34,24 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "f2fc609d25a8be43",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "CSC1019/Class 3.md",
+                "bFile": "CSC1019/Class 3.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Class 3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,12 +210,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01ac63ede477cfb3",
+  "active": "f2fc609d25a8be43",
   "lastOpenFiles": [
+    "CSC1019/Class 3.md",
+    "CSC1019/Class_5_Variables_and_Expressions.md",
+    "CSC1019/Class 2.md",
+    "conflict-files-obsidian-git.md",
+    "CSC1019/Class 1 questions.md",
+    "CSC1019/Class 1 - Thinking, formatting and Arithmetic.md",
+    "CSC1019/Chapter 6 Feed Back Karina.md",
+    "CSC1019/Chapter 6 - If - else branches.md",
+    "CSC1019/Assignment Reflections/Branching_looping_Reflection.md",
+    "CSC1019/Assignment Reflections",
     "Chapter 7.md",
     "CSC1019/Midterm Study Guide.md",
     "CSC1019/Chapter 6  - Continued.md",
-    "CSC1019/Class 3.md",
     "CSC1019/Class 3 - Datatypes reading.md",
     "CSC1019/Chapter 4.md"
   ]

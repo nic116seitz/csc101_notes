@@ -15,3 +15,8 @@ command = ""
 while command != sentinel:
     command = input("Type quit to exit: ")
 ```
+### **Counting with a while loop
+- Counting is a common task in programming often done using a loop 
+- #loop_variable can be used for counting and updating during each iteration until loop condition is false
+## **For loops**
+- Common task is to access all of the elements in a container one by one

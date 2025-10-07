@@ -53,3 +53,76 @@
 - constants can also be used to represent any number that doesn't change during the execution of the program
 - *Good practice is to minimize the use of literal numbers in code by using constants to improve code readability*
 - 
+
+# Arithmetic expressions (general)
+## Basics
+- An #expression is a combination of items like variables, literals, operators, and parentheses that evaluate to a value
+- #literal : specific value in code 
+	- ex: 2
+- #operator : symbol that performs builtin calculation 
+	- ex: + means addition
+- - can have the dual function of meaning either subtraction or negation
+- there is no = in an expression as that would be an assignment
+- ! is not used for factorial
+## Evaluation of expressions
+- expression #evaluates to a value which replaces the expression
+	- Ex: if x is 5 then x + 1 //evaluates to 6 
+	- y = x + 1 //assigns y with 6
+- expressions are evaluated using the order of standard rules known as #prescedenceRules
+- () first
+- - unary (the symbol for negation)
+- \* /
+- + - 
+- left to right
+	- if more than one operator of equal precedence is evaluated is left to right
+- To ensure that the order of operations is correct you can use parentheses to make the order explicit 
+## Questions
+#review_Questions 
+- What is a expression?
+- What is a literal?
+- What is an operator?
+- How can I make sure the order of operations for a given expression is correct?
+- What is float? Why is it called a float?
+- How can one determine the best type of variable to use?
+- What are the problems when dividing by 0
+- How can you manipulate the output of a float?
+- What is precedence?
+- What is evaluation of an expression?
+- What is associativity?
+
+# Arithmetic expressions (integer)
+- Revisit this section to see, not sure if i could find any notes to put down for this
+# Floating point numbers (float)
+- floating point number is a real number
+	- ex: 98.6 , 0.005, or -66.67
+- floating-point refers to the decimal point being able to appear anywhere in the number
+- variable declared as type #float stores a floating-point number
+- floating-point literal is a number with a fractional part, even if that fraction is 0
+	- ex: 10.0, 0.0
+## Choosing a variable type (float vs int)
+- Programmer should choose a variable's type based on the type of value held
+	- Integers typically used for counts like days, months, whole items
+	- Floats used for measurements (weight, degrees, distance)
+	- Floats also used when dealing with a fraction of a countable item (average)
+
+## Float divide by zero
+- Many programming languages create an error when dividing by zero
+- Coral doesn't, in coral it is infinity or negative infinity depending on operands
+- If both the operand and dividend and divisor are both 0 than the result is NaN
+## Manipulating float output
+- Some floats have many digits after and repeating digits. 
+- Most programming languages output at least 5 digits after the decimal point
+- For coral you can reduce the output length by putting something like:
+	- `Put myfloat to output with 3 decimal places` 
+
+## Chapter 2.19: Using math functions
+## Basics
+- Some programs require math beyond the standard operands
+	- sqroot
+	- Coral has a few built ins known as functions
+- a #function is a list of statements executed by invoking the function's name 
+- The invoking of the name is known as a function call. 
+- Any function input values, or arguments, appear within ( )  separated by commas
+
+# Questions
+#review_Questions
