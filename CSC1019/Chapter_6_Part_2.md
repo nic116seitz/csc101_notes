@@ -52,7 +52,7 @@
 - The acceptable number of columns varies from 80 to 120. Good practice is to use the widely accepted standard of 80 columns
 ## Conditional expressions
 #### Conditional expressions
-- #conditional_expressino has the following form 
+- #conditional_expression has the following form 
 	- `expr_when_true if conditon else expr_when_false`
 		- All three operands are expressions
 		- Condition in the middle is evaluated first
