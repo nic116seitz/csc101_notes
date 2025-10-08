@@ -126,3 +126,12 @@
 
 # Questions
 #review_Questions
+- What is the difference between int and float?
+- In what cases would you use an int and in what cases would you use a float?
+- What is a character?
+- What is a string?
+- What is a Boolean?
+- What are the rules for manipulating a float?
+- What happens when you divide by zero?
+- What is type conversion? 
+- 

@@ -211,4 +211,15 @@ Commonly used functions:
 **Whitespace**
 [This is the link to the class style](https://learn.zybooks.com/zybook/RRCCCSC1019McAfeeFall2025/chapter/5/section/11)
 
-
+# Review Question
+#review_Questions
+- What are the reserved words?
+- What does ord()
+- What does chr() do?
+- How does the random Module Work?
+- What are escape sequences?
+	- How do they work?
+- What does sqrt() do?
+- What is Modulo?
+- What is randint?
+- What is randrange?

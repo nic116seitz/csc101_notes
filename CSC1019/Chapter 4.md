@@ -16,7 +16,7 @@
 - #code is a common word for the textual representation of a program.
 - an interactive interpreter displays a prompt that indicates that the interpreter is ready to accept code. 
 ## Executing a Python program
-- #statment is a program instruction. Programs are a series of statements
+- #statement is a program instruction. Programs are a series of statements
 - each statement sits on its own line
 - #expression a piece of code that the interpreter evaluates to produce a value
 	- Ex: wage \* hourly
@@ -34,7 +34,7 @@
 - "\n"
 - #escapeSequence is a string that has special meaning, always starts with a \
 	- Other examples are \\ to print a \ 
-	- \t to inserta tab
+	- \t to insert tab
 - tab or newline is #whitespace
 ##### Basic input
 - many useful programs allow a user to enter values such as typing a number, name, etc. 
@@ -75,7 +75,7 @@
 | ValueError       | Invalid value used, (think mismatch of types) \\\ int("string") |
 | NameError        | variable named doesn't exist                                    |
 | TypeError        | An operation uses incorrect types \\\ 9 + apple                 |
-
+a
 ## IDE (Integrated Development Environment)
 ##### Intro
 - Ide integrates a text editor with a python, in addition to other tools
@@ -106,3 +106,12 @@
 - #incrementalDevelopment is a valuable programming practice where code is written, compiled and tested in small chunks with each step involving a small increment of additional code.
 - This helps manage complexity and identify issues early
 - 
+# Review Questions
+- What does a print statement do?
+- What is an IDE?
+- What is a CLI?
+- What are the type of error messages that can pop up?
+- How do you convert input types?
+- What is an algorithm
+- What is computational thinking?
+- What is whitespace and why does it matter?
