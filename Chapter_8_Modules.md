@@ -10,9 +10,9 @@
 - Separating code into different modules makes management of larger programs simpler
 - Python standard library is a collection of pre-installed modules.
 
-| Term          | Definition                                                                                                 |
-| ------------- | ---------------------------------------------------------------------------------------------------------- |
-| #Script       | A file containing Python code that is passed as input to the interpreter                                   |
-| #Module       | A file containing Python code that is imported by a script, module, or interactive interpreter             |
-| #dot_notation | Used to reference an object in an imported module                                                          |
-| #import       | To execute the contents of a file containing Python code and make available the definitions from that file |
+| Term          | Definition                                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------------------ |
+| #Script       | A file containing Python code that is passed as input to the interpret                                        |
+| #Module       | A file containing Python code that is imported by a script, module, or interactive interpre                   |
+| #dot_notation | Used to reference an object in an imported mo                                                                 |
+| #import    To execute the contents of a file containing Python code and make available the definitions from that filet  ilet  |
