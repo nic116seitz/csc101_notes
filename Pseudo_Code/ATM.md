@@ -1,0 +1,17 @@
+- [x] Constants
+	- [x] Starting balance = 1000.00
+	- [x] A 4 digit pin 
+	- [x] Per transaction withdrawal limit
+- [ ] Program flow
+	- [x] Pin gate
+		- [x] Prompt user to enter 4 digit pin
+		- [x] Allow 3 attempts
+		- [x] On success proceed to main menu
+	- [ ] ATM Menu
+	- [ ] Balance
+		- [ ] Create a exit function to leave the atm
+		- Chose not to do this because of complexity
+	- [ ] Deposit
+		- [ ] Create an exit function to leave the atm
+	- [ ] Withdraw
+	- [ ] Apply Monthly Interest
