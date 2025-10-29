@@ -66,6 +66,83 @@ Output:
 - `rfind(x)` - same as find but searches in reverse returning last occurrence 
 - `count(x)` - returns the amount of times x occurs in string
 ## String Comparison 
+
+| Example                           | Expression result | Why?                                                                                                                                                                                               |
+| --------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `"Hello" == "Hello"`              | True              | The strings are exactly identical values                                                                                                                                                           |
+| `"Hello" == "Hello!"`             | False             | The left hand string does not end with "!".                                                                                                                                                        |
+| `"Yankee Sierra" > "Amy Wise"`    | True              | The first character of the left side "Y" is "greater than" (in ASCII value) the first character of the right side "A".                                                                             |
+| `"Yankee Sierra" > "Yankee Zulu"` | False             | The characters of both sides match until the second word. The first character of the second word on the left "S" is not "greater than" (in ASCII value) the first character on the right side "Z". |
+| `"seph" in "Joseph"`              | True              | The substring "seph" can be found starting at the 3rd position of "Joseph".                                                                                                                        |
+| `"jo" in "Joseph"`                | False             | "jo" (with a lowercase "j") is not in "Joseph" (with an uppercase "J").                                                                                                                            |
+- for <> comparison the result will be the result of comparing the ASCII/Unicode of the first differing character pair
+- If all matching pairs are the same the one that has less characters is considered smaller
+- Identity operators determine whether the two arguments are bound to the same object. 
+- Good practice is to use equality operator when comparing values
+
+Methods to check a string value that returns a True or False Boolean value:
+
+- isalnum() -- Returns True if all characters in the string are lowercase or uppercase letters, or the numbers 0-9.
+- isdigit() -- Returns True if all characters are the numbers 0-9.
+- islower() -- Returns True if all cased characters are lowercase letters.
+- isupper() -- Returns True if all cased characters are uppercase letters.
+- isspace() -- Returns True if all characters are whitespace.
+- startswith(x) -- Returns True if the string starts with x.
+- endswith(x) -- Returns True if the string ends with x.
+
+#new_string_methods 
+Methods to create new strings:
+
+- capitalize() -- Returns a copy of the string with the first character capitalized and the rest lowercased.
+- lower() -- Returns a copy of the string with all characters lowercased.
+- upper() -- Returns a copy of the string with all characters uppercased.
+- strip() -- Returns a copy of the string with leading and trailing whitespace removed.
+- title() -- Returns a copy of the string as a title, with first letters of words capitalized.
+*Transformation should be applied after taking input, as this lowers the risk of something going wrong*
+
+# Splitting and joining strings
+## The split() method
+- split() splits a string into a list of tokens
+- each #token is a substring that forms a part of a larger string
+- #seperator is a char or sequence of chars that indicates where to split the string into tokens
+- Ex:
+ ```
+ string = "This/That/Theother"
+ my_tokens = string.split("/")
+ ```
+ `Output: my_tokens = ["This","That","Theother"]`
+## The join() method
+- performs the inverse of split()
+- joins a list of strings to create a single string 
+- useful way to use this is "".join to add things together without space
+# String basics
+## Strings and string literals
+- a #string is a sequence of char that represents textual data like a person's name, location or a message to the user
+- #string_literal is a string defined in the source code of the program by surrounding the text value with single or double quotes
+- a string is a #sequence_type a type that orders a collection of objects into a sequence from first to last 
+- empty string is `var = ""`
+- len() can be used to find the length of a string
+- A programmer can reference a char at a specific index by appending #brackets \[] containing the desired index after the name of a string variable
+- Strings are immutable
+- a string variable cannot change once created
+- assignment statement must be used to create a new string object to replace the old one 
+- strings can be concatenated
+- EX:
+- `"New" + "York" = "New York"`
+
+# String formatting
+## Formatted string literals (f-strings)
+- #fstring starts with a f before opening quote and uses \{} to denote place holder expressions
+- these expressions are also called a #replacement_field
+- `=` after the expression in the replacement field prints both the expression and its result
+- `{{}}` creates the output wrapped in `{}`
+##### Format specifications
+- #format_specification inside a replacement field allows a value's formatting in the string to be customized
+- `:` is what denotes this 
+- it separates the what from the how 
+- #presentation_type is a part of a format spec that determines how to represent a value in text form  
+
 ## Questions
 - How do you slice from the end of a string?
+- When should you apply string transformations to something?
 - 
