@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pseudo_Code/Grocery List.md",
+                "file": "CSC1019/Chapter_11_Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grocery List"
+              "title": "Chapter_11_Classes"
             }
           }
         ],
@@ -187,9 +187,10 @@
   },
   "active": "ab92484352f4d7ad",
   "lastOpenFiles": [
+    "Pseudo_Code/Grocery List.md",
+    "CSC1019/Chapter_11_Classes.md",
     "Pseudo_Code/Cafe Menu.md",
     "CSC1019/Chapter_10_Lists.md",
-    "Pseudo_Code/Grocery List.md",
     "Pseudo_Code/ATM.md",
     "CSC1019/Chapter_9_Strings.md",
     "CSC1019/Class 9 Functions.md",
