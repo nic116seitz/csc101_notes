@@ -45,4 +45,11 @@ From [Python Docs](https://docs.python.org/3/tutorial/classes.html)
 	- global namespace for a module is created when the module definition is read
 	- module namespaces also last until the interpreter quits
 	- local namespace for a function is created when the function is called and deleted when the function returns or raises an exception that isn't handled
-- 
+- #scope is a textual region of a python program where a namespace is directly accessible
+- Scopes are determined statically, used dynamically
+	- Generally there are 3 or 4 nested scopes whose namespaces are directly accessible
+		- innermost, searched first contains local names
+		- the scopes of any enclosing functions, which are searched starting with the nearest enclosing scope, contain non-local but also non global names
+		- the next-to-last scope contains the current module's global names
+		- the outermost scope (searched last) is the namespace containing built-in names
+	- If var is global then all ref and assignments go directly to the next-to-last scope
