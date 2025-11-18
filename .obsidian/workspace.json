@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73fff3c59200af9c",
@@ -187,9 +188,9 @@
   },
   "active": "ab92484352f4d7ad",
   "lastOpenFiles": [
-    "Pseudo_Code/Grocery List.md",
-    "CSC1019/Chapter_11_Classes.md",
     "Pseudo_Code/Cafe Menu.md",
+    "CSC1019/Chapter_11_Classes.md",
+    "Pseudo_Code/Grocery List.md",
     "CSC1019/Chapter_10_Lists.md",
     "Pseudo_Code/ATM.md",
     "CSC1019/Chapter_9_Strings.md",
