@@ -1,0 +1,13 @@
+- [ ] Add formatting to the show_status function
+## Tests
+- [ ] Test that hunger never goes below 0 (check to see what function or above 100) 
+- [ ] Play 
+	- [ ] increasing happiness
+	- [ ] increasing hunger
+	- [ ] decreasing energy
+- [ ] Sleep
+	- [ ] Increases energy
+	- [ ] Slight increase to hunger
+- [ ] Show status
+	- [ ] Print pet's name and current hunger, happiness and energy levels and printing health status
+- [ ] Is healthy
