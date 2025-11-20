@@ -9,5 +9,12 @@
 	- [ ] Increases energy
 	- [ ] Slight increase to hunger
 - [ ] Show status
-	- [ ] Print pet's name and current hunger, happiness and energy levels and printing health status
+	- [x] Print pet's name and current hunger, happiness and energy levels and printing health status
+	- [ ] Minor problem with the f string need attention if there is time for it
 - [ ] Is healthy
+	- [x] Health status changes if the pet is within the healthy range for all of the stats
+	- [x] Health status changes if one of the stats is below the thresh hold
+- [ ] Feed Check
+	- [x] It the pet's hunger is at 0 they are full and won't eat
+- [ ] Functionality I would add
+	- [ ] General balancing, play generally resulted in the dog being too hungry to play not really every too tired
