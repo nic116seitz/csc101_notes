@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "600197a8a915e28c",
+  "active": "4b49c3508fb7d6f6",
   "lastOpenFiles": [
     "CSC1019/Final project.md",
     "Virtual Pets.md",
