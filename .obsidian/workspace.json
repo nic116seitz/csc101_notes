@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "958ca9a9c9c72b46",
+        "id": "c28aa11a4773ee47",
         "type": "tabs",
         "children": [
           {
-            "id": "5b8b834ca59000b0",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Final Project - Campus Event Planner.md",
-                "bFile": "Final Project - Campus Event Planner.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Final Project - Campus Event Planner"
-            }
-          },
-          {
-            "id": "ab92484352f4d7ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSC1019/Chapter_11_Classes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter_11_Classes"
-            }
-          },
-          {
-            "id": "0a02227f96a38358",
+            "id": "1b66e63cf207ecd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "Final Project - Campus Event Planner"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Project - Campus Event Planner.md",
+                "file": "CSNotes/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Final Project - Campus Event Planner"
+              "title": "Backlinks for Chapter 4"
             }
           },
           {
@@ -171,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Project - Campus Event Planner.md",
+                "file": "CSNotes/Chapter 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Final Project - Campus Event Planner"
+              "title": "Outline of Chapter 4"
             }
           },
           {
-            "id": "b0560da6971a7f19",
+            "id": "040de6ae096081ed",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,40 +181,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a02227f96a38358",
+  "active": "1b66e63cf207ecd9",
   "lastOpenFiles": [
-    "Pseudo_Code - Word Counter.md",
-    "Virtual Pets.md",
     "CSC1019/Final project.md",
     "Final Project - Campus Event Planner.md",
-    "conflict-files-obsidian-git.md",
-    "Pseudo_Code/Cafe Menu.md",
+    "Virtual Pets.md",
     "CSC1019/Chapter_11_Classes.md",
-    "Maria Code Review.md",
+    "CSC1019/Midterm Study Guide.md",
     "Pseudo_Code/Grocery List.md",
-    "CSC1019/Chapter_10_Lists.md",
+    "Pseudo_Code/Cafe Menu.md",
     "Pseudo_Code/ATM.md",
-    "CSC1019/Chapter_9_Strings.md",
-    "CSC1019/Class 9 Functions.md",
-    "CSC1019/Chapter 6 Feed Back Karina.md",
-    "CSC1019/Chapter_8_Modules.md",
     "Pseudo_Code",
+    "Pseudo_Code - Word Counter.md",
+    "CSC1019/Class 9 Functions.md",
+    "CSC1019/Chapter_9_Strings.md",
+    "CSC1019/Chapter_8_Modules.md",
     "CSC1019/Chapter_7_Loops.md",
-    "CSC1019/Chapter_6_Part_2.md",
     "CSC1019/Chapter_6_part_1.md",
-    "CSC1019/Class_5_Variables_and_Expressions.md",
-    "CSC1019/Chapter 4.md",
+    "CSC1019/Chapter_6_Part_2.md",
+    "CSC1019/Chapter_10_Lists.md",
     "CSC1019/Class 3.md",
+    "CSC1019/Class_5_Variables_and_Expressions.md",
     "CSC1019/Class 2.md",
-    "CSC1019/Class 3 - Datatypes reading.md",
+    "conflict-files-obsidian-git.md",
     "CSC1019/Class 1 questions.md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "2025-10-07.md",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled.base",
     "CSC1019/Class 1 - Thinking, formatting and Arithmetic.md",
-    "CSC1019/Assignment Reflections"
+    "CSC1019/Chapter 6 Feed Back Karina.md",
+    "CSC1019/Chapter 6 - If - else branches.md",
+    "CSC1019/Assignment Reflections/Branching_looping_Reflection.md",
+    "CSC1019/Assignment Reflections",
+    "Chapter 7.md"
   ]
 }

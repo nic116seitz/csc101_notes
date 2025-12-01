@@ -1,3 +1,0 @@
-- [ ] Using f string for formatting on line 31
-- [ ] How could I contend with multiple "most expensive events" maybe an array?
-- [ ] Nested loops for searching nested dicts so that I can search by any of the events attributes
