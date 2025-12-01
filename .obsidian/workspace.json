@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "16e8de68cdc27341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "ab92484352f4d7ad",
             "type": "leaf",
             "state": {
@@ -55,20 +41,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual Pets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual Pets"
-            }
-          },
-          {
-            "id": "07a6f9629ae66488",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Final Project - Campus Event Planner.md",
                 "mode": "source",
                 "source": false
@@ -78,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73fff3c59200af9c",
@@ -238,12 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07a6f9629ae66488",
+  "active": "0a02227f96a38358",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Pseudo_Code - Word Counter.md",
+    "Virtual Pets.md",
     "CSC1019/Final project.md",
     "Final Project - Campus Event Planner.md",
-    "Virtual Pets.md",
+    "conflict-files-obsidian-git.md",
     "Pseudo_Code/Cafe Menu.md",
     "CSC1019/Chapter_11_Classes.md",
     "Maria Code Review.md",
@@ -253,7 +225,6 @@
     "CSC1019/Chapter_9_Strings.md",
     "CSC1019/Class 9 Functions.md",
     "CSC1019/Chapter 6 Feed Back Karina.md",
-    "Pseudo_Code - Word Counter.md",
     "CSC1019/Chapter_8_Modules.md",
     "Pseudo_Code",
     "CSC1019/Chapter_7_Loops.md",
