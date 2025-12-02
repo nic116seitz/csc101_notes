@@ -13,6 +13,7 @@
 ## Possible feature adds
 - [ ] Input verification
 - [ ] Edit event
+- [ ] Day of the week calculator 
 
 
 ## WIP Thoughts
